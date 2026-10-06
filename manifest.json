@@ -1,0 +1,35 @@
+{
+    "name": "Fénix Lusitana RH",
+    "short_name": "Fénix RH",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#EEF4FC",
+    "theme_color": "#163268",
+    "description": "Fénix Lusitana RH - gestão de férias",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
