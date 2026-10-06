@@ -52669,7 +52669,7 @@ if(m==null)m=p
 else{s=o.ax
 r=s.rx
 m=m.bX(r==null?s.k3:r)}s=t.p
-m=A.b([new A.x9(n,p,190,"F\xe9nix Lusitana Lda.",p),B.aew,l,A.W("Gest\xe3o de f\xe9rias",p,p,p,p,m,B.ci,p,p),B.aey],s)
+m=A.b([new A.x9(n,p,190,"F\xe9nix Lusitana Lda.",p),B.aew,l,A.W("Gest\xe3o de F\xe9rias e Horas Extra",p,p,p,p,m,B.ci,p,p),B.aey],s)
 if(q.x)B.b.R(m,A.b([A.kB(p,!1,q.e,B.a2M,!1,p,p,p,1,!1,p,p,p,p,p,p,B.a5,B.Ug,p,new A.aG2()),B.bt],s))
 m.push(A.kB(B.a5U,!1,q.f,B.vc,!1,p,p,B.x5,1,!1,p,p,p,p,p,p,B.a5,B.b8,p,q.gayQ()))
 m.push(B.bt)
