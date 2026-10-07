@@ -59806,7 +59806,7 @@ if(m==null)m=q
 else{s=n.ax
 r=s.rx
 m=m.ca(r==null?s.k3:r)}s=t.n
-m=A.b([new A.A8(o,q,190,"F\xe9nix Lusitana Lda.",q),B.bg_,l,A.R("Gest\xe3o de F\xe9rias e Horas Extra",q,q,q,q,m,B.dp,q,q),B.bg2],s)
+m=A.b([new A.A8(o,q,190,"F\xe9nix Lusitana Lda.",q),B.bg_,l,A.R("Gest\xe3o de F\xe9rias, Horas Extra e Aus\xeancias",q,q,q,q,m,B.dp,q,q),B.bg2],s)
 if(p.x)B.m.T(m,A.b([A.md(q,!1,p.e,B.ah0,!1,q,q,q,1,!1,q,q,q,q,q,q,B.aA,B.a5C,q,new A.aPf()),B.cf],s))
 m.push(A.md(B.b3f,!1,p.f,B.zI,!1,q,q,B.CI,1,!1,q,q,q,q,q,q,B.aA,B.bH,q,p.gaHl()))
 m.push(B.cf)
