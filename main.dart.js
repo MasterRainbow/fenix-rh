@@ -60806,59 +60806,58 @@ r=a.f
 q=A.W(r).i("a_<1>")
 s=A.L(new A.a_(r,new A.aQ9(a,s),q),q.i("n.E"))
 return s},
-I(a7){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1=this,a2=null,a3=A.cp(a7,!0,t.v),a4=new A.am(Date.now(),0,!1),a5=A.aQ(A.Z(a4),A.a8(a4),A.aT(a4),0,0,0,0),a6=a1.asm(a3)
-if(B.m.fF(a6,new A.aQi(a1))){a4=a1.d
-a4.toString
-s=a4}else s=a3.e.a
-r=s===a3.e.a
-q=a3.eK(s)
-a4=a3.w
-p=A.W(a4).i("a_<1>")
-o=A.L(new A.a_(a4,new A.aQj(s),p),p.i("n.E"))
+I(a6){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0=this,a1=null,a2=A.cp(a6,!0,t.v),a3=new A.am(Date.now(),0,!1),a4=A.aQ(A.Z(a3),A.a8(a3),A.aT(a3),0,0,0,0),a5=a0.asm(a2)
+if(B.m.fF(a5,new A.aQi(a0))){a3=a0.d
+a3.toString
+s=a3}else s=a2.e.a
+r=s===a2.e.a
+q=a2.eK(s)
+a3=a2.w
+p=A.W(a3).i("a_<1>")
+o=A.L(new A.a_(a3,new A.aQj(s),p),p.i("n.E"))
 B.m.dO(o,new A.aQk())
-a4=A.cs([A.Z(a5)],t.S)
-for(p=o.length,n=0;n<o.length;o.length===p||(0,A.r)(o),++n)a4.G(0,A.Z(o[n].d))
-m=A.L(a4,a4.$ti.c)
+a3=A.cs([A.Z(a4)],t.S)
+for(p=o.length,n=0;n<o.length;o.length===p||(0,A.r)(o),++n)a3.G(0,A.Z(o[n].d))
+m=A.L(a3,a3.$ti.c)
 B.m.kN(m)
-if(B.m.n(m,a1.e)){a4=a1.e
-a4.toString
-l=a4}else l=A.Z(a5)
-a4=A.W(o).i("a_<1>")
-k=A.L(new A.a_(o,new A.aQm(l),a4),a4.i("n.E"))
-a4=A.W(k).i("a_<1>")
-p=a4.i("n.E")
-j=A.L(new A.a_(k,new A.aQn(a5),a4),p)
+if(B.m.n(m,a0.e)){a3=a0.e
+a3.toString
+l=a3}else l=A.Z(a4)
+a3=A.W(o).i("a_<1>")
+k=A.L(new A.a_(o,new A.aQm(l),a3),a3.i("n.E"))
+a3=A.W(k).i("a_<1>")
+p=a3.i("n.E")
+j=A.L(new A.a_(k,new A.aQn(a4),a3),p)
 B.m.dO(j,new A.aQo())
-i=A.L(new A.a_(k,new A.aQp(a5),a4),p)
-a4=A.aF(t.bo)
+i=A.L(new A.a_(k,new A.aQp(a4),a3),p)
+a3=A.aF(t.bo)
 for(p=o.length,n=0;n<o.length;o.length===p||(0,A.r)(o),++n){h=o[n]
 g=h.r
-if((g===B.bm||g===B.bq)&&h.y!=null)a4.G(0,h.y)}f=new A.aQu(a5,a4)
-e=new A.aQc(a1,f,a5,a7,a4,a3)
-d=new A.aQf(a1,r,f,a7,a3)
-if(r)a4="As minhas f\xe9rias"
-else{a4=q==null?a2:q.b
-a4="F\xe9rias de "+(a4==null?"\u2014":a4)}p=t.n
-a4=A.b([A.Q(a4,a2,a2,a2,a2,A.E(a7).ok.f,a2,a2,a2)],p)
-if(a6.length>1){g=A.vp(a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a3.gfR()?"Colaborador":"Colaborador do departamento",!0,!0,!1,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2)
+if((g===B.bm||g===B.bq)&&h.y!=null)a3.G(0,h.y)}f=new A.aQu(a4,a3)
+e=new A.aQc(a0,f,a4,a6,a3,a2)
+d=new A.aQf(a0,r,f,a6,a2)
+if(r)a3="As minhas f\xe9rias"
+else{a3=q==null?a1:q.b
+a3="F\xe9rias de "+(a3==null?"\u2014":a3)}p=t.n
+a3=A.b([A.Q(a3,a1,a1,a1,a1,A.E(a6).ok.f,a1,a1,a1)],p)
+if(a5.length>1){g=A.vp(a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a2.gfR()?"Colaborador":"Colaborador do departamento",!0,!0,!1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1)
 c=A.b([],t.FG)
-for(b=a6.length,a=t.b7,n=0;n<a6.length;a6.length===b||(0,A.r)(a6),++n){h=a6[n]
-c.push(new A.eE(h.a,A.Q(h.b,a2,a2,a2,a2,a2,a2,a2,a2),B.cp,a2,a))}a4.push(A.bR(A.GS(g,s,!0,c,a2,new A.aQq(a1,a3),a2,t.N),a2,260))}if(r)a4.push(A.n3(B.jD,B.bmI,new A.aQr(a7)))
-else if(a3.gfR())a4.push(A.n3(B.jD,A.Q("Registar f\xe9rias de "+A.j(q==null?a2:B.m.gak(q.b.split(" "))),a2,a2,a2,a2,a2,a2,a2,a2),new A.aQs(a7,q)))
-a4=A.b([A.tv(a4,B.n0,12,12),B.bV,new A.dG(B.j_,a2,a2,new A.BT(m,l,new A.aQt(a1),a2),a2),B.aZ,new A.qB(s,l,a2),B.ei],p)
-if(r&&j.length!==0){g=A.E(a7).ax
+for(b=a5.length,a=t.b7,n=0;n<a5.length;a5.length===b||(0,A.r)(a5),++n){h=a5[n]
+c.push(new A.eE(h.a,A.Q(h.b,a1,a1,a1,a1,a1,a1,a1,a1),B.cp,a1,a))}a3.push(A.bR(A.GS(g,s,!0,c,a1,new A.aQq(a0,a2),a1,t.N),a1,260))}if(r)a3.push(A.n3(B.jD,B.bmI,new A.aQr(a6)))
+else if(a2.gfR())a3.push(A.n3(B.jD,A.Q("Registar f\xe9rias de "+A.j(q==null?a1:B.m.gak(q.b.split(" "))),a1,a1,a1,a1,a1,a1,a1,a1),new A.aQs(a6,q)))
+a3=A.b([A.tv(a3,B.n0,12,12),B.bV,new A.dG(B.j_,a1,a1,new A.BT(m,l,new A.aQt(a0),a1),a1),B.aZ,new A.qB(s,l,a1),B.ei],p)
+if(r&&j.length!==0){g=A.E(a6).ax
 c=g.rx
-a4.push(new A.aO(B.aet,A.Q("Clique numa linha para alterar as datas ou pedir o cancelamento.",a2,a2,a2,a2,A.di(a2,a2,c==null?g.k3:c,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,a2,!0,a2,a2,a2,a2,a2,a2,a2,a2),a2,a2,a2),a2))}g=""+l
-c=r?"N\xe3o tem f\xe9rias marcadas por gozar.":"Sem f\xe9rias marcadas por gozar."
-b=A.b([],p)
-for(a=j.length,n=0;n<j.length;j.length===a||(0,A.r)(j),++n){h=j[n]
-a0=d.$1(h)
-b.push(new A.ro(h,!1,a0,r?new A.aQl(e,h):a2,a2))}a4.push(A.k8(b,"Marcadas e pedidos em curso \u2014 "+g,c))
-a4.push(B.ei)
+a3.push(new A.aO(B.aet,A.Q("Clique numa linha para alterar as datas ou pedir o cancelamento.",a1,a1,a1,a1,A.di(a1,a1,c==null?g.k3:c,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1),a1,a1,a1),a1))}g=r?"N\xe3o tem f\xe9rias marcadas por gozar.":"Sem f\xe9rias marcadas por gozar."
+c=A.b([],p)
+for(b=j.length,n=0;n<j.length;j.length===b||(0,A.r)(j),++n){h=j[n]
+a=d.$1(h)
+c.push(new A.ro(h,!1,a,r?new A.aQl(e,h):a1,a1))}a3.push(A.k8(c,"Marcadas e pedidos em curso",g))
+a3.push(B.ei)
 p=A.b([],p)
-for(c=i.length,n=0;n<i.length;i.length===c||(0,A.r)(i),++n){h=i[n]
-p.push(new A.ro(h,!1,h.r===B.bL?B.bsk:a2,a2,a2))}a4.push(A.k8(p,"Hist\xf3rico \u2014 "+g,"Sem hist\xf3rico."))
-return A.jW(a4,B.dy,a2,!1)},
+for(g=i.length,n=0;n<i.length;i.length===g||(0,A.r)(i),++n){h=i[n]
+p.push(new A.ro(h,!1,h.r===B.bL?B.bsk:a1,a1,a1))}a3.push(A.k8(p,"Hist\xf3rico","Sem hist\xf3rico."))
+return A.jW(a3,B.dy,a1,!1)},
 nx(a,b,c,d){return this.anc(a,b,c,d)},
 anc(a,b,c,d){var s=0,r=A.y(t.H),q=1,p=[],o,n,m
 var $async$nx=A.z(function(e,f){if(e===1){p.push(f)
@@ -61089,18 +61088,15 @@ j.push(A.n3(B.jD,A.Q(f,a0,a0,a0,a0,a0,a0,a0,a0),new A.aRZ(a,a3,s,g)))
 j=A.tv(j,B.n0,12,12)
 f=A.bbZ(new A.aRQ(a,h,s,g),a.f,t.By)
 e=a.e
-d=""+e
-c=A.b([],p)
-for(b=l.length,m=0;m<l.length;l.length===b||(0,A.r)(l),++m)c.push(new A.aco(l[m],s,a0))
-q=A.b([j,B.bV,f,B.bV,new A.dG(B.j_,a0,a0,new A.BT(q,e,new A.aRR(a),a0),a0),B.bV,A.k8(c,"Registos de horas extra \u2014 "+d,"Sem horas extra registadas em "+d+".")],p)
-if(h.length!==0){j=a.e
-f=A.b([],p)
-for(e=h.length,m=0;m<h.length;h.length===e||(0,A.r)(h),++m)f.push(new A.OT(h[m],s,a0))
-B.m.T(q,A.b([B.ei,A.k8(f,"Pedidos de folga \u2014 "+j,a0)],p))}q.push(B.ei)
-j=""+a.e
+d=A.b([],p)
+for(c=l.length,m=0;m<l.length;l.length===c||(0,A.r)(l),++m)d.push(new A.aco(l[m],s,a0))
+q=A.b([j,B.bV,f,B.bV,new A.dG(B.j_,a0,a0,new A.BT(q,e,new A.aRR(a),a0),a0),B.bV,A.k8(d,"Registos de horas extra","Sem horas extra registadas.")],p)
+if(h.length!==0){j=A.b([],p)
+for(f=h.length,m=0;m<h.length;h.length===f||(0,A.r)(h),++m)j.push(new A.OT(h[m],s,a0))
+B.m.T(q,A.b([B.ei,A.k8(j,"Pedidos de folga",a0)],p))}q.push(B.ei)
 p=A.b([],p)
-for(f=i.length,m=0;m<i.length;i.length===f||(0,A.r)(i),++m)p.push(new A.OT(i[m],!1,a0))
-q.push(A.k8(p,"Folgas gozadas em "+j,"Nenhuma folga gozada em "+j+"."))
+for(j=i.length,m=0;m<i.length;i.length===j||(0,A.r)(i),++m)p.push(new A.OT(i[m],!1,a0))
+q.push(A.k8(p,"Folgas gozadas","Nenhuma folga gozada."))
 return A.jW(q,B.dy,a0,!1)},
 aCR(a){var s=this.c
 s.toString
