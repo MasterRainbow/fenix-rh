@@ -3,9 +3,9 @@
     "short_name": "Fénix RH",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#EEF4FC",
-    "theme_color": "#163268",
-    "description": "Fénix Lusitana RH - gestão de férias",
+    "background_color": "#F4F6FA",
+    "theme_color": "#0F2350",
+    "description": "Fénix Lusitana RH - gestão de férias, horas extra e ausências",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
