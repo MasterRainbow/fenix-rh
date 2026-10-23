@@ -62005,42 +62005,42 @@ $0(){A.bR(this.a,!1).cU(null)
 return null},
 $S:0}
 A.Gl.prototype={
-E(b9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2=null,b3="1 ano",b4=A.c5(b9,!0,t.v),b5=new A.af(Date.now(),0,!1),b6=A.aD(A.T(b5),A.a6(b5),A.aM(b5),0,0,0,0),b7=b4.as,b8=b4.at
-b5=t.S
-s=A.u(b5,t.Xr)
-for(r=b7.length,q=0;q<b7.length;b7.length===r||(0,A.q)(b7),++q){p=b7[q]
+E(c0){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2=null,b3="1 ano",b4="Alertas Anivers\xe1rios",b5=A.c5(c0,!0,t.v),b6=new A.af(Date.now(),0,!1),b7=A.aD(A.T(b6),A.a6(b6),A.aM(b6),0,0,0,0),b8=b5.as,b9=b5.at
+b6=t.S
+s=A.u(b6,t.Xr)
+for(r=b8.length,q=0;q<b8.length;b8.length===r||(0,A.q)(b8),++q){p=b8[q]
 s.l(0,p.a,p)}o=new A.amI(s)
-n=new A.amG(b8)
+n=new A.amG(b9)
 s=t.N
-b5=A.u(b5,s)
-for(r=b4.r,m=r.length,q=0;q<r.length;r.length===m||(0,A.q)(r),++q){p=r[q]
-b5.l(0,p.a,p.b)}r=A.b([],t.gL)
-for(m=b4.f,l=m.length,q=0;q<m.length;m.length===l||(0,A.q)(m),++q){k=m[q]
+b6=A.u(b6,s)
+for(r=b5.r,m=r.length,q=0;q<r.length;r.length===m||(0,A.q)(r),++q){p=r[q]
+b6.l(0,p.a,p.b)}r=A.b([],t.gL)
+for(m=b5.f,l=m.length,q=0;q<m.length;m.length===l||(0,A.q)(m),++q){k=m[q]
 if(k.e===B.ci&&k.w!=null){j=k.w
 j.toString
-j=A.alR(j,b6)
+j=A.alR(j,b7)
 i=k.x
-r.push(new A.F2(["Equipa F\xe9nix Lusitana"+(b5.h(0,i)==null?"":" \xb7 "+A.k(b5.h(0,i))),j,B.byC,k.b+" \xb7 faz anos"]))}}for(b5=b7.length,q=0;q<b7.length;b7.length===b5||(0,A.q)(b7),++q){p=b7[q]
+r.push(new A.F2(["Equipa F\xe9nix Lusitana"+(b6.h(0,i)==null?"":" \xb7 "+A.k(b6.h(0,i))),j,B.byC,k.b+" \xb7 faz anos"]))}}for(b6=b8.length,q=0;q<b8.length;b8.length===b6||(0,A.q)(b8),++q){p=b8[q]
 m=p.c
-l=A.alR(m,b6)
-m=A.T(A.alR(m,b6))-A.T(m)
+l=A.alR(m,b7)
+m=A.T(A.alR(m,b7))-A.T(m)
 m=m===1?b3:""+m+" anos"
-r.push(new A.F2(["Distribuidor \xb7 "+J.baE(n.$1(p),", "),l,B.byD,p.b+" \xb7 faz "+m]))}for(b5=b8.length,q=0;q<b8.length;b8.length===b5||(0,A.q)(b8),++q){h=b8[q]
+r.push(new A.F2(["Distribuidor \xb7 "+J.baE(n.$1(p),", "),l,B.byD,p.b+" \xb7 faz "+m]))}for(b6=b9.length,q=0;q<b9.length;b9.length===b6||(0,A.q)(b9),++q){h=b9[q]
 g=h.d
-if(g!=null){m=A.alR(g,b6)
-l=A.T(A.alR(g,b6))-A.T(g)
+if(g!=null){m=A.alR(g,b7)
+l=A.T(A.alR(g,b7))-A.T(g)
 l=l===1?b3:""+l+" anos"
 j=$.ba9().cf(g)
 i=h.e.length===0?"":" \xb7 "+A.k(o.$1(h))
 r.push(new A.F2(["Abertura a "+j+i,m,B.byE,"Escrit\xf3rio de "+h.c+" \xb7 faz "+l]))}}B.m.dv(r,new A.amD())
-f=new A.amH(b6)
-b5=t.hb
-e=A.L(new A.V(r,new A.amE(f),b5),b5.i("p.E"))
+f=new A.amH(b7)
+b6=t.hb
+e=A.L(new A.V(r,new A.amE(f),b6),b6.i("p.E"))
 d=new A.amJ(f)
-c=b4.ax
+c=b5.ax
 b="Anivers\xe1rios da equipa F\xe9nix Lusitana, dos distribuidores e da abertura dos escrit\xf3rios (os da rede n\xe3o aparecem no calend\xe1rio). No dia de cada anivers\xe1rio, \xe0s 06:00, segue um email"+(c==null?"":" para "+c)+"."
-a=A.l0(B.iL,B.a7F,new A.amF(b9),b2)
-b5=e.length
+a=A.l0(B.iL,B.a7F,new A.amF(c0),b2)
+b6=e.length
 r=t.n
 m=A.b([],r)
 for(l=e.length,q=0;q<e.length;e.length===l||(0,A.q)(e),++q){j=e[q].a
@@ -62051,34 +62051,34 @@ break
 case 2:i=new A.iP(j[1],B.aO,B.f_,!1,b2)
 break
 default:i=b2}a0=A.O(j[3],b2,b2,b2,b2,b2,b2,b2,b2)
-m.push(A.i3(!1,b2,b2,b2,!0,b2,b2,b2,!0,b2,i,b2,b2,b2,b2,b2,!1,b2,b2,b2,b2,A.O(A.k(A.UO($.bp9().cf(j[1]),s))+" \xb7 "+j[0],2,B.bc,b2,b2,b2,b2,b2,b2),b2,a0,b2,d.$1(j[1]),b2))}b5=A.hG(b5,!1,m,B.hq,"Pr\xf3ximos anivers\xe1rios (60 dias)","Nenhum anivers\xe1rio nos pr\xf3ximos 60 dias.")
+m.push(A.i3(!1,b2,b2,b2,!0,b2,b2,b2,!0,b2,i,b2,b2,b2,b2,b2,!1,b2,b2,b2,b2,A.O(A.k(A.UO($.bp9().cf(j[1]),s))+" \xb7 "+j[0],2,B.bc,b2,b2,b2,b2,b2,b2),b2,a0,b2,d.$1(j[1]),b2))}b6=A.hG(b6,!1,m,B.hq,"Pr\xf3ximos anivers\xe1rios (60 dias)","Nenhum anivers\xe1rio nos pr\xf3ximos 60 dias.")
 s=t.l
-m=A.bi(b2,A.ab(b9,B.b1,s).w.a.a<760?12:16,b2)
-l=b7.length
+m=A.bi(b2,A.ab(c0,B.b1,s).w.a.a<760?12:16,b2)
+l=b8.length
 j=A.b([],r)
-for(i=b7.length,a0=b6.a,a1=b6.b,q=0;q<b7.length;b7.length===i||(0,A.q)(b7),++q){p=b7[q]
+for(i=b8.length,a0=b7.a,a1=b7.b,q=0;q<b8.length;b8.length===i||(0,A.q)(b8),++q){p=b8[q]
 a2=A.O(p.b,b2,b2,b2,b2,b2,b2,b2,b2)
 a3=p.c
 a4=$.ba9().cf(a3)
-a5=A.T(b6)-A.T(a3)
-a3=A.b8f(a3,A.T(b6))
+a5=A.T(b7)-A.T(a3)
+a3=A.b8f(a3,A.T(b7))
 a6=a3.a
 if(a6<=a0)a3=a6===a0&&a3.b>a1
 else a3=!0
 a3=a3?a5-1:a5
 a3=a3===1?b3:""+a3+" anos"
 j.push(A.i3(!1,b2,b2,b2,!0,b2,b2,b2,!0,b2,B.ajX,b2,b2,b2,b2,b2,!1,b2,b2,b2,b2,A.O(a4+" \xb7 "+a3+" \xb7 "+J.baE(n.$1(p),", "),b2,b2,b2,b2,b2,b2,b2,b2),b2,a2,b2,b2,b2))}l=A.hG(l,!1,j,B.HU,"Distribuidores","Sem distribuidores.")
-j=b8.length
+j=b9.length
 i=A.b([],r)
-for(a2=b8.length,a3=t.s,q=0;q<b8.length;b8.length===a2||(0,A.q)(b8),++q){h=b8[q]
+for(a2=b9.length,a3=t.s,q=0;q<b9.length;b9.length===a2||(0,A.q)(b9),++q){h=b9[q]
 a4=h.b
 a6=h.c
 a4=A.O(a4==null?a6:a6+" \xb7 n\xba "+a4,b2,b2,b2,b2,b2,b2,b2,b2)
 a6=A.b([],a3)
 a7=h.d
 if(a7!=null){a8=$.ba9().cf(a7)
-a5=A.T(b6)-A.T(a7)
-a9=A.b8f(a7,A.T(b6))
+a5=A.T(b7)-A.T(a7)
+a9=A.b8f(a7,A.T(b7))
 b0=a9.a
 if(b0<=a0)a9=b0===a0&&a9.b>a1
 else a9=!0
@@ -62086,13 +62086,13 @@ a9=a9?a5-1:a5
 a9=a9===1?b3:""+a9+" anos"
 a6.push("Abertura a "+a8+" ("+a9+")")}else a6.push("Sem data de abertura")
 if(h.e.length!==0)a6.push(o.$1(h))
-i.push(A.i3(!1,b2,b2,b2,!0,b2,b2,b2,!0,b2,B.ak7,b2,b2,b2,b2,b2,!1,b2,b2,b2,b2,A.O(B.m.cm(a6," \xb7 "),b2,b2,b2,b2,b2,b2,b2,b2),b2,a4,b2,b2,b2))}b1=A.b([b5,m,A.Id(A.hG(j,!1,i,B.AC,"Escrit\xf3rios","Sem escrit\xf3rios."),l)],r)
-if(this.c)return new A.pO("Anivers\xe1rios",b,A.b([a],r),b1,b2)
-b5=A.UM(b9)
+i.push(A.i3(!1,b2,b2,b2,!0,b2,b2,b2,!0,b2,B.ak7,b2,b2,b2,b2,b2,!1,b2,b2,b2,b2,A.O(B.m.cm(a6," \xb7 "),b2,b2,b2,b2,b2,b2,b2,b2),b2,a4,b2,b2,b2))}b1=A.b([b6,m,A.Id(A.hG(j,!1,i,B.AC,"Escrit\xf3rios","Sem escrit\xf3rios."),l)],r)
+if(this.c)return new A.pO(b4,b,A.b([a],r),b1,b2)
+b6=A.UM(c0)
 m=A.b([a],r)
-r=A.b([new A.oU("Alertas Anivers\xe1rios",b,m,!1,b2),A.bi(b2,A.ab(b9,B.b1,s).w.a.a<760?12:16,b2)],r)
+r=A.b([new A.oU(b4,b,m,!1,b2),A.bi(b2,A.ab(c0,B.b1,s).w.a.a<760?12:16,b2)],r)
 B.m.O(r,b1)
-return A.mm(r,b5,b2,!1)}}
+return A.mm(r,b6,b2,!1)}}
 A.amI.prototype={
 $1(a){var s,r,q,p,o,n=A.b([],t.s)
 for(s=a.e,r=s.length,q=this.a,p=0;p<s.length;s.length===r||(0,A.q)(s),++p){o=q.h(0,s[p])
@@ -65956,11 +65956,11 @@ s={}
 s.a=null
 if(p!=null){s.a=p
 $.bcT=null
-$.ae.fr$.push(new A.b2V(s,k,a))}}g=A.b([B.afG,B.afF,B.afE,B.afI,B.afD],t.tu)
+$.ae.fr$.push(new A.b2V(s,k,a))}}g=A.b([B.afG,B.afF,B.afE,B.afH,B.afD],t.tu)
 if(!i.geQ()){s=i.e
 if(s!=null){o=i.ax
 s=o!=null&&s.c.toLowerCase()===o.toLowerCase()}else s=!1}else s=!0
-if(s&&!i.geQ())g.push(B.afH)
+if(s&&!i.geQ())g.push(B.afI)
 if(i.gEn().length===0){s=i.e
 if(s!=null){o=i.cy
 s=new A.bI(o,A.l(o).i("bI<2>")).n(0,s.a)}else s=!1
@@ -151727,13 +151727,13 @@ B.aj9=new A.aV(62397,"MaterialIcons",!1)
 B.aiR=new A.aV(58842,"MaterialIcons",!1)
 B.akz=new A.a0n(null)
 B.afG=new A.fi("In\xedcio",null,B.aj9,B.aiR,B.akz,0)
-B.hq=new A.aV(61199,"MaterialIcons",!1)
-B.a9i=new A.Gl(!0,null)
-B.afH=new A.fi("Anivers\xe1rios",null,B.hq,B.Au,B.a9i,0)
 B.jX=new A.aV(61929,"MaterialIcons",!1)
 B.Aw=new A.aV(58371,"MaterialIcons",!1)
 B.air=new A.J5(null)
-B.afI=new A.fi("Horas Extra",null,B.jX,B.Aw,B.air,0)
+B.afH=new A.fi("Horas Extra",null,B.jX,B.Aw,B.air,0)
+B.hq=new A.aV(61199,"MaterialIcons",!1)
+B.a9i=new A.Gl(!0,null)
+B.afI=new A.fi("Alertas Anivers\xe1rios","Anivers\xe1rios",B.hq,B.Au,B.a9i,0)
 B.afJ=new A.AK(0)
 B.afK=new A.AK(1)
 B.d4=new A.HX(3,"info")
